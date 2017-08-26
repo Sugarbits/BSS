@@ -1,0 +1,46 @@
+.has-vote-btns > li > a:first-child {
+    margin-left: 40px !important;
+}
+.has-vote-btns >li.ui-last-child > .vote-btns {
+    border-bottom: 1px solid rgb(221, 221, 221);
+}
+
+.vote-btns {
+    position: absolute;
+    top: 0px;
+    width: 40px;
+    bottom: 0px;
+    z-index: 100;
+    border-top: 1px solid rgb(221, 221, 221);
+    background-color: rgb(246, 246, 246);
+}
+.vote-btns a:first-child {
+    position: absolute;
+    bottom: 50%;
+    margin-bottom: 2px;
+    left: 6px;
+}
+.vote-btns a:last-child {
+    position: absolute;
+    top: 50%;
+    margin-top: 2px;
+    left: 6px;
+}
+.has-del-btns > li > a:first-child{
+    margin-left: 40px !important;
+}
+.del-btns {
+    position: absolute;
+    top: 0px;
+    width: 40px;
+    bottom: 0px;
+    z-index: 100;
+    border-top: 1px solid rgb(221, 221, 221);
+    background-color: rgb(246, 246, 246);
+}
+.del-btns a {
+    position: absolute;
+    bottom: 0%;
+    //margin-bottom: 0px;
+    left: 6px;
+}

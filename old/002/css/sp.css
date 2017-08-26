@@ -1,0 +1,24 @@
+.custom-fieldset div .ui-radio .ui-radio-on {
+    background: red !important;
+}
+.custom-fieldset div .ui-radio .ui-radio-off {
+    background: red !important;
+}
+
+.custom .ui-checkbox label.ui-checkbox-off {
+    background: white !important;
+}
+.custom .ui-checkbox label.ui-checkbox-on {
+    background: #00b0eb !important;
+}
+
+.custom .ui-checkbox-off:after {
+    background-color: white !important;
+}
+.custom .ui-checkbox-on:after {
+    background-color: green !important;
+}
+.controlgroup-textinput{
+	padding-top:.22em;
+	padding-bottom:.22em;
+}

@@ -1,0 +1,12 @@
+.set2-custom{
+     padding: 0;
+}
+
+.set2-custom > div {
+    margin: 0;
+}
+
+.set2-custom > div > label {
+    border-radius: 0;
+    border: 0;
+}
